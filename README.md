@@ -1,4 +1,7 @@
-# Bachelorarbeit-Reinforcement_Learning
+# Bachelorarbeit-Reinforcement Learning
+
+## Optimierung von Reinforcement-Learning-Algorithmen: Eine vergleichende Analyse von Agenten-Modellen mit Hyperparametern.
+
 Veröffentlichung des Codes, den ich für die Experimente in der Bachelorarbeit verwendet habe.
 
 Dieser ist in 3 Teile aufgeteit.
