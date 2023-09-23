@@ -1,6 +1,6 @@
 # Optimierung von Reinforcement-Learning-Algorithmen: Eine vergleichende Analyse von Agenten-Modellen mit Hyperparametern.
 
-Veröffentlichung von einem Teil des Codes, den ich für die Experimente in der Bachelorarbeit verwendet habe.
+Veröffentlichung von dem wichtigsten Teil des Codes, den ich für die Experimente in der Bachelorarbeit verwendet habe.
 
 Datei "Pacman_Preprocessing":
    Beinhaltet meine initiale Tests mit der Umgebung und zeigt wie das Preprocessing (Datenvorverarbeitung) sich auswirkt.
