@@ -16,5 +16,3 @@ Dieser ist in 3 Teile aufgeteit.
 3. Datei:
    Beinhaltet einen Beispiel-Code der ausführbar ist mit Beispiel Hyperparametern.
 
-4. Datei:
-   Lädt ein Modell für einen gerenderten Spieldurchlauf.
